@@ -1,0 +1,52 @@
+<resources>
+    <string name="app_name">StarBuzz</string>
+    <string name="starbuzz_logo">Star Buzz</string>
+
+
+    <string-array name="options">
+        <item>Drinks</item>
+        <item>Food</item>
+        <item>Stores</item>
+    </string-array>
+
+    <string-array name="pizzas">
+        <item>Diavolo</item>
+        <item>Funghi</item>
+    </string-array>
+
+    <string-array name="pastas">
+        <item>Spaghetti</item>
+        <item>Lasagne</item>
+    </string-array>
+
+    <string-array name="stores">
+        <item>Cambridge</item>
+        <item>Sebastopo1</item>
+    </string-array>
+
+    <string name="create_order">Create Order</string>
+    <string name="action_share">Share</string>
+
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+    <string name="top_fragment">Top Fragment</string>
+
+
+    <!-- Tab Navigation -->
+    <string name="home_tab">Home</string>
+    <string name="pizza_tab">Pizzas</string>
+    <string name="pasta_tab">Pastas</string>
+    <string name="stores_tab">Stores</string>
+
+    <!-- Scrolling Toolbar -->
+    <string name="company_name">Bits and Pizzas</string>
+    <string name="restaurant_image">Restaurant Image</string>
+    <string name="home_text">Since we opened our doors in 2017, Bits and Pizzas has built its reputation as one of America’s best Italian-Digital
+        restaurants. Some people believe eating out is about being with your friends and family. We believe that good food is best enjoyed while
+        staring at your phone.</string>
+
+    <!-- Collapsing Toolbar -->
+    <string name="order_name_hint">Please Enter Your Name</string>
+    <string name="order_details_hint">Please Enter Your Order</string>
+
+</resources>
